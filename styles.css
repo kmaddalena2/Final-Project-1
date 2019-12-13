@@ -1,0 +1,18 @@
+body {
+	font-family: 'Space Mono', monospace;
+	font-size: 35px;
+	font-weight: 400;	
+	margin: 0;
+	padding: 0.5em;
+	color: white;
+	background-color: white;
+	min-height: 100vh;
+	line-height: 1.2;
+	background-image: url(file:///C:/Users/kylam/Desktop/School%20Stuff/Y2S1/Web%20Design%20I/Final%20Project%202/img/bg.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+figure {
+	position: relative;
+}
